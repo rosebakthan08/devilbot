@@ -1,8 +1,8 @@
 # ----------------------------------- https://github.com/m4mallu/clonebot --------------------------------------------#
 class Presets(object):
     START_TEXT = """
-𝙃𝙚𝙡𝙡𝙤... {}
-𝐼 𝑐𝑎𝑛 𝑐𝑙𝑜𝑛𝑒 𝑚𝑒𝑑𝑖𝑎 𝑓𝑟𝑜𝑚 𝑎𝑛𝑦 𝑐ℎ𝑎𝑡 𝑡𝑜 𝑦𝑜𝑢𝑟 𝑝𝑒𝑟𝑠𝑜𝑛𝑎𝑙 𝑐ℎ𝑎𝑡 ! 𝐶𝑙𝑖𝑐𝑘 𝑠𝑒𝑡𝑡𝑖𝑛𝑔𝑠 𝑡𝑜 𝑐𝑜𝑛𝑓𝑖𝑔𝑢𝑟𝑒 𝑚𝑒. 𝐼𝑓 𝑦𝑜𝑢 𝑙𝑖𝑘𝑒 𝑚𝑒, 𝑝𝑙𝑒𝑎𝑠𝑒 𝑔𝑖𝑣𝑒 𝑎 𝑠𝑡𝑎𝑟 𝑖𝑛 𝑚𝑎 @dragadm. 𝑇ℎ𝑎𝑛𝑘𝑠
+Clone... {}
+ ചെയ്യാത്തവർ ആയി ആരുണ്ട് ഗോപു 😁! 𝐶𝑙𝑖𝑐𝑘 𝑠𝑒𝑡𝑡𝑖𝑛𝑔𝑠 𝑡𝑜 𝑐𝑜𝑛𝑓𝑖𝑔𝑢𝑟𝑒 𝑚𝑒. 𝐼𝑓 𝑦𝑜𝑢 𝑙𝑖𝑘𝑒 𝑚𝑒, 𝑝𝑙𝑒𝑎𝑠𝑒 𝑔𝑖𝑣𝑒 𝑎 𝑠𝑡𝑎𝑟 𝑖𝑛 𝑚𝑎 @dragadm. 𝑇ℎ𝑎𝑛𝑘𝑠
     """
     WELCOME_TEXT = "⭑⭑★✪ HELP for more info: ✪★⭑⭑"
     MESSAGE_COUNT = """
@@ -30,7 +30,7 @@ class Presets(object):
 📲 𝐂𝐥𝐨𝐧𝐞 𝐒𝐭𝐚𝐫𝐭𝐞𝐝 𝐀𝐭    - <b>{}</b>
 📌 𝐋𝐚𝐬𝐭 𝐔𝐩𝐝𝐚𝐭𝐞𝐝 𝐎𝐧   - <b>{}</b>
 
-🔰 <a href='t.me/Spykids_SQL'><b>@Spykids</b></a>     🏅 <a href='t.me/slogan_98'><b>@Github</b></a>
+🔰 <a href='t.me/dragadm'><b>@dragadm</b></a>     🏅 <a href='t.me/rosebakthan'><b>@Github</b></a>
     """
     INFO_CHAT_TYPES = """
 𝙔𝙤𝙪 𝙘𝙖𝙣 𝙚𝙣𝙩𝙚𝙧 𝙩𝙝𝙚 𝙛𝙤𝙡𝙡𝙤𝙬𝙞𝙣𝙜 𝙩𝙮𝙥𝙚𝙨:
